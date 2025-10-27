@@ -71,5 +71,3 @@ This project demonstrates practical implementation of **full-stack web developme
 - Mr. Shinde Abhishek  
 
 ---
-
-⭐ *If you found this project useful, consider starring it on GitHub!*
